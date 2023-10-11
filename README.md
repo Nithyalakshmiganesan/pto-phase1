@@ -36,8 +36,8 @@ Design Thinking is a user-centric problem-solving methodology that can be applie
 
 By applying the Design Thinking approach, IOT-based public transport optimization becomes a user-centered and iterative process. This approach ensures that the solutions implemented are not only technologically advanced but also genuinely address the needs and preferences of passengers while promoting efficiency, sustainability, and accessibility in urban transportation.
 
-phase2
-PUBLIC TRANSPORT OPTIMIZATION
+# phase2
+# PUBLIC TRANSPORT OPTIMIZATION
 INNOVATION
 Innovations for public transport optimization can greatly improve efficiency, accessibility, and sustainability. Here are some key innovations in this area:
 Step1:Introduction
